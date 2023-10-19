@@ -1,2 +1,2 @@
 # jogoDado
-Decidir iniciar um projeto em Java script que faça um jogo de dados comum, com o tempo irei melhora-lo.
+Tomei a iniciativa de criar um projeto em Java script, com o objetivo de fazer um jogo de dados comum, com o passar do tempo irei incluir novas funcionalidades.
